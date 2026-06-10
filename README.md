@@ -1,6 +1,4 @@
-# Nano Protein Viewer VSCode Extension
-
-[![vscode downloads](https://img.shields.io/visual-studio-marketplace/i/StevenYu.nano-protein-viewer)](https://marketplace.visualstudio.com/items?itemName=StevenYu.nano-protein-viewer)
+# Protein Viewer VSCode Extension
 
 ![Logo](media/logo.ico)
 
@@ -17,36 +15,29 @@ A simple but powerful VSCode extension for visualizing protein structures using 
 ### Usage demo
 ![gif](media/demo.gif)
 
-### 🧬 Protein Structure Visualization
+### Protein Structure Visualization
 - **Multi-Format Support**: Load and visualize molecular structures from PDB, mmCIF, PDBQT, GRO, XYZ, MOL, MOL2, and SDF files
 - **Interactive 3D Viewer**: Powered by Molstar for high-performance molecular visualization
 - **Multiple Color Schemes**: Custom colors, element-based, residue-based, and chain-based coloring
 - **Grid View**: Display multiple structures simultaneously in a grid layout
 
-### 🔄 Diffusion Animation Support
+### Diffusion Animation Support
 - **Sequence Loading**: Load entire folders of structure files as diffusion sequences
 - **Animation Controls**: Play, pause, step through frames with speed control
 - **Download Animations**: Export animations as video files or frame sequences
 
-### 🧪 Sequence Alignment & Prediction
+### Sequence Alignment & Prediction
 - **FASTA Support**: Load and parse FASTA sequence files
 - **ESMFold Integration**: Fold protein sequences using ESMFold API
 - **Dual Session Mode**: Compare original and predicted structures side-by-side
 - **pLDDT Confidence Coloring**: Visualize prediction confidence with color coding
 - **Alignment Tools**: Manual alignment mode with RMSD calculation
 
-### 🎨 Advanced Visualization
+### Advanced Visualization
 - **Cartoon Representation**: Optimized cartoon rendering for clear structural visualization
 - **Confidence Coloring**: pLDDT confidence scores with color legend
 - **Interactive Controls**: Collapsible panels, zoom, rotate, translate
 - **Multiple Layout Modes**: Single view, dual session, grid view
-
-## Installation
-
-1. Open VSCode
-2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for "Nano Protein Viewer"
-4. Click Install
 
 ## Usage
 
