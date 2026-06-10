@@ -234,5 +234,3 @@ If you use this extension in your research, please cite the underlying Mol* fram
 - VSCode integration with context menus
 
 ---
-
-**Enjoy exploring protein structures with the Nano Protein Viewer!** 🧬✨# nano-protein-viewer
